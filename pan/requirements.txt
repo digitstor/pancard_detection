@@ -3,5 +3,6 @@ imutils
 Keras
 opencv-python
 Pillow
-tensorflow
+tensorflow-cpu
 scikit-image
+gunicorn
